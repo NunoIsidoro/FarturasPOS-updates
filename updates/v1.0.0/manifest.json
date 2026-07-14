@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "releasedAt": "2026-07-14",
+  "zipFile": "FarturasPOS_update.zip",
+  "sha256": "e9efb5427d59a76a61cbb298a2967c0fd04d70ab9f1445a17d74ace619d7b5d9",
+  "minSupportedOs": "XP",
+  "notes": "Versao inicial com atualizacao remota segura"
+}
