@@ -1,0 +1,3 @@
+updates/**/*.json text eol=lf
+updates/**/*.sig text eol=lf
+updates/**/*.zip binary
